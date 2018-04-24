@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+node_modules/
+bower_components/
+dist/www
+dist/npm-shrinkwrap.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+
+local.conf.json
+server.config.json
+manifest.yml

@@ -1,0 +1,16 @@
+{
+  "name": "evn-analytics-app",
+  "version": "1.0.0",
+  "description": "Distribution bundle for EVN Analytic Catalog",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cfenv": "^1.0.4",
+    "fsd-web-server": "git+https://github.build.ge.com/COMBINE/fsd-web-server.git#v1.1.5"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  }
+}
